@@ -3,5 +3,5 @@
 
 
 
-This is my fist coding competition, particularly individually. There are 13 problems in total, and I only solved one in 5 hours,with two more
+This is my first coding competition, particularly individually. There are 13 problems in total, and I only solved one in 5 hours,with two more
 that I couldn't debug.
